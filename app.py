@@ -5,13 +5,13 @@ app = Flask(__name__)
 posts = [
     {
         'author': 'Ed',
-        'tite': 'Post 1',
+        'title': 'Post 1',
         'content': 'First post',
         'date_posted': 'January 4th, 2022'
     },
     {
         'author': 'Pearl',
-        'tite': 'Post 2',
+        'title': 'Post 2',
         'content': '2nd post',
         'date_posted': 'July 3rd, 2021'
     }
